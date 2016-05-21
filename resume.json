@@ -1,0 +1,166 @@
+{
+    "basics": {
+        "name": "Dezhi “Andy” Fang",
+        "label": "Software Engineer & Researcher",
+        "picture": "",
+        "email": "andyfang.dz@gmail.com",
+        "phone": "(404) 771-8694",
+        "website": "https://andyfang.me",
+        "summary": "Dezhi “Andy” Fang is a Computer Science student at Georgia Institute of Technology. Andy believes that computing is about empowering. He wants to help people make discoveries and make sense of the world by researching and developing methods and tools that amplify one’s limited cognition power with limitless computing possibilities.",
+        "location": {
+            "address": "350 Ferst Dr",
+            "postalCode": "GA 30332",
+            "city": "Atlanta",
+            "countryCode": "US",
+            "region": "Georgia"
+        },
+        "profiles": [{
+            "network": "Twitter",
+            "username": "andyfangdz",
+            "url": ""
+        }]
+    },
+    "work": [{
+        "company": "Georgia Institute of Technology",
+        "position": "Undergraduate Research Assistant",
+        "website": "http://poloclub.gatech.edu",
+        "startDate": "2015-10-01",
+        "summary": "Research in data mining with professor Polo Chau",
+        "highlights": [
+            "MMap: Scaling up scientific computation with memory mapping",
+            "ARGO: Billion-scale visualization of network data"
+        ]
+    }, {
+        "company": "Symantec",
+        "position": "STAR Intern on Software Engineering",
+        "website": "https://www.symantec.com/page.jsp?id=star",
+        "startDate": "2016-05-16",
+        "summary": "Utilizing data mining to improve maleware detection",
+        "highlights": [
+            "Using parent-child relationships among files to enable reputation inference on first-seen files"
+        ]
+    }, {
+        "company": "Lanzhong Beijing Inc.",
+        "position": "Software Engineer",
+        "website": "http://www.jiuzhang.com/",
+        "startDate": "2013-02-01",
+        "summary": "Technical lead on internal infrastructure",
+        "highlights": [
+            "Lead developer of a CMS for online education",
+            "Primary developer of an online coding practice platform http://lintcode.com",
+            "Built automated server cluster scaling system for distributed tasks",
+            "Built email marketing system now sending 50k+ emails per month",
+            "Maintained and updated internal infrastructure across multiple applications and distributed services including celery, memcached and nginx"
+        ]
+    }, {
+        "company": "InitialView",
+        "position": "Software Engineer",
+        "website": "http://initialview.com",
+        "startDate": "2014-12-15",
+        "endDate": "2015-09-01",
+        "summary": "Full-stack software engineer",
+        "highlights": [
+            "Sole developer of claryfy.com, a web forum for international students built with Django and PostgreSQL",
+            "Built front-end of InitialView's Interview Booking System",
+            "Built front-end of InitialView Interview Player"
+        ]
+    }],
+    "volunteer": [],
+    "education": [{
+        "institution": "Georgia Institute of Technology",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "2015-08-12",
+        "gpa": "3.7",
+        "courses": []
+    }],
+    "awards": [{
+        "title": "President's Undergraduate Research Award (PURA)",
+        "date": "2016-05-18",
+        "awarder": "Georgia Institute of Technology",
+        "summary": "The Undergraduate Research Opportunities Program competitively funds individual requests by a student to support undergraduate student involvement in faculty research. Dezhi “Andy” Fang received PURA Travel Award funding to present at 2016 ACM SIGMOD/PODS @ San Francisco, USA. $500."
+    }, {
+        "title": "Runner Up, Emory GCC Case Competition",
+        "date": "2016-06-09",
+        "awarder": "Emory Global China Connection",
+        "summary": "Case competition focused on mobile payment industry. Developed strategy for a U.S. based company to enter China's market with NFC payment technology."
+    }, {
+        "title": "Runner Up, BizTech'16 Case Competition",
+        "date": "2016-03-12",
+        "awarder": "Georgia Tech Management Information Systems (MIS) Club",
+        "summary": "Case competition focused on Electronic Health Record (EHR) industry. Developed strategy for an established EHR company to transform its infrastructure to cloud-based solutions with high interoperability among EHR standards and medical devices."
+    }, {
+        "title": "Runner Up in Education Track, HackDuke'15",
+        "date": "2015-11-08",
+        "awarder": "HackDuke",
+        "summary": "Developed ResumeWorks, a platform for creating different versions of resumes to fit each job application."
+    }, {
+        "title": "Hacker's Choice Award, VandyHacks'15",
+        "date": "2015-10-04",
+        "awarder": "VandyHacks",
+        "summary": "Developed Bank Guard, an app for detecting credit card frauds."
+    }, {
+        "title": "4th Place, IronCoder'15",
+        "date": "2015-09-26",
+        "awarder": "Cardlytics",
+        "summary": "A semiannually held programming competition by Cardlytics."
+    }, {
+        "title": "First Place, Georgia Tech College of Computing Alumni Hackathon'15",
+        "date": "2015-08-29",
+        "awarder": "Georgia Tech College Of Computing",
+        "summary": "Developed MapsOnPoint, an app for finding points of interest along your road trip route without taking an unreasonable detour."
+    }, {
+        "title": "Third Prize, China Adolescents Science & Technology Innovation Contest",
+        "date": "2014-08-05",
+        "awarder": "China Association for Science and Technology",
+        "summary": "Presented a stereo in-door location system using computer vision."
+    }, {
+        "title": "First Prize, National Olympiad in Informatics in Provinces",
+        "date": "2013-12-12",
+        "awarder": "China Computer Federation (CCF)",
+        "summary": "Programming competition in a form similar to ACM-ICPC."
+    }],
+    "publications": [{
+        "name": "M3: Scaling Up Machine Learning via Memory Mapping",
+        "publisher": "SIGMOD/PODS’16",
+        "releaseDate": "2016-04-11",
+        "website": "http://arxiv.org/abs/1604.03034",
+        "summary": "Dezhi Fang, Duen Horng (Polo) Chau."
+    }, {
+        "name": "Visual Exploration of Machine Learning Results using Data Cube Analysis",
+        "publisher": "HILDA’16 (Co-located with SIGMOD'16)",
+        "releaseDate": "2016-05-11",
+        "website": "http://arxiv.org/abs/1604.03034",
+        "summary": "Minsuk Kahng, Dezhi Fang, Duen Horng (Polo) Chau."
+    }],
+    "skills": [{
+        "name": "Web Development",
+        "level": "Master",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "React",
+            "Webpack",
+            "Three.js",
+            "D3.js"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native-level Fluency"
+    }, {
+        "language": "Chinese",
+        "fluency": "Native speaker"
+    }],
+    "references": [{
+        "name": "Polo Chau",
+        "reference": "Assistant Professor, School of Computational Science & Engineering, Georgia Institute of Technology"
+    }, {
+        "name": "Fumin Zhang",
+        "reference": "Associate Professor, School of Electrical and Computer Engineering, Georgia Institute of Technology"
+    }, {
+        "name": "Terry Crawford",
+        "reference": "CEO and Co-founder, InitialView"
+    }]
+}
