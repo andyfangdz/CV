@@ -1,15 +1,12 @@
 {
     "basics": {
         "name": "Dezhi “Andy” Fang",
-        "label": "Software Engineer & Researcher",
+        "label": "Computer Science Researcher & Software Engineer",
         "picture": "",
-        "email": "andyfang.dz@gmail.com",
-        "phone": "(404) 771-8694",
+        "email": "dezhifang@gatech.edu",
         "website": "https://andyfang.me",
         "summary": "Dezhi “Andy” Fang is a Computer Science student at Georgia Institute of Technology. Andy believes that computing is about empowering. He wants to help people make discoveries and make sense of the world by researching and developing methods and tools that amplify one’s limited cognition power with limitless computing possibilities.",
         "location": {
-            "address": "350 Ferst Dr",
-            "postalCode": "GA 30332",
             "city": "Atlanta",
             "countryCode": "US",
             "region": "Georgia"
@@ -35,10 +32,7 @@
         "position": "STAR Intern on Software Engineering",
         "website": "https://www.symantec.com/page.jsp?id=star",
         "startDate": "2016-05-16",
-        "summary": "Utilizing data mining to improve maleware detection",
-        "highlights": [
-            "Using parent-child relationships among files to enable reputation inference on first-seen files"
-        ]
+        "summary": "Utilizing data mining to improve maleware detection"
     }, {
         "company": "Lanzhong Beijing Inc.",
         "position": "Software Engineer",
